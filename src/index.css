@@ -13,3 +13,8 @@ body {
   background-color: #3f3f3f;
 }
 
+.container{
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
