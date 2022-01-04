@@ -1,5 +1,6 @@
 # Hello 
 Ejercicio 1 sobre REACT.JS desarrollado a traves de un curso de UDEMY 
+</br>
 React - The Complete Guide (incl Hooks, React Router, Redux)
 ```
 En el repositorio el archivo BITACORA.md documente el proceso del desarrollo.
