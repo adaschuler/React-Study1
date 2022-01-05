@@ -22,3 +22,12 @@ Actualizacion de las funciones de cada componentes a una sintaxis tipo flecha.
 Uso de useState para llenado de formulario.
 Nuevos componentes en NewExpense. 
 ```
+###V04
+```
+Nuevas funciones para ingresar la data y que esta llegue al componente padre en app.js mediante uso de props.
+Creacion de expensesfilter.js para componente con barras de gastos. 
+```
+###V05
+```
+
+```

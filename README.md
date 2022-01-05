@@ -14,7 +14,7 @@ $ npm install
 ```
 ### para iniciar
 ```
-
+$ npm start
 ```
 
 <p>
