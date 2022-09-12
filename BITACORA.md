@@ -34,4 +34,5 @@ Creacion de expensesfilter.js para componente con barras de gastos.
 ```
 Implementacion de map para llenar ExpenseItem de forma dinamica.
 Desarrollo de funcion addExpenseHandler para insertar valores en array de datos.
+Contenido condicional para mostrar o no botones de añadir items.
 ```
